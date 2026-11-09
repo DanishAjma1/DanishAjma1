@@ -1,5 +1,4 @@
-# 👨‍💻 Danish Ajmal
-### Full-Stack Systems Engineer · TypeScript | Next.js | Node.js | Distributed Systems
+### Full-Stack Systems Engineer · Node.js | Next.js | React.js | Typescript | Distributed Systems
 
 <p align="center">
   <a href="https://danishajma1.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
