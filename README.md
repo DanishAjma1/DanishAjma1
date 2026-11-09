@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://danishajma1.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/danish-ajmal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/danish-ajmal-butt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:danishajmalbutt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Punjab,_Pakistan-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
